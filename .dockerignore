@@ -1,0 +1,8 @@
+/node_modules
+/build
+/graphiql-workspace/dist
+/.git
+
+.DS_Store
+.env
+npm-debug.log
